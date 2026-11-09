@@ -4,7 +4,7 @@ Repository name: dhruvchawla2511
 Place this README.md in the root of the repository named exactly: dhruvchawla2511
 The banner is stored at assets/profile-banner.png.
 --><p align="center">
-  <img src="assets/profile-banner.png" alt="Dhruv Chawla — Minecraft-inspired developer banner" width="100%" />
+  <img src="profile-banner.png" alt="Dhruv Chawla — Minecraft-inspired developer banner" width="100%" />
 </p><h1 align="center">Hey, I'm Dhruv Chawla 👋</h1><p align="center">
   <strong>CSBS Student · Developer · Product Builder</strong><br/>
   Thapar Institute of Engineering & Technology · India
