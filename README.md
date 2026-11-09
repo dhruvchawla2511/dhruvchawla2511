@@ -90,7 +90,7 @@
       <h3>UniLink</h3>
       A student-focused platform concept for connecting, collaborating, and sharing useful resources within a university community.
       <br/><sub>React · TypeScript · Node.js</sub>
-      <br/><b>Repository:</b> <i>Add repository URL</i>
+      <br/><b>Repository:</b> <i>https://github.com/dhruvchawla2511/UNILINK-IIITD-HACKSHIFT-2026</i>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
       <h3>WeatherGPT · SIH</h3>
       A weather-focused project developed in the Smart India Hackathon context, exploring ways to make weather information more useful and actionable.
       <br/><sub>Project technology stack to be confirmed</sub>
-      <br/><b>Repository:</b> <i>Add repository URL</i>
+      <br/><b>Repository:</b> <i>https://github.com/dhruvchawla2511/SIHDSSAAS</i>
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@
       <h3>MultiSim</h3>
       A software project exploring simulation and modelling.
       <br/><sub>Technology stack and project description to be confirmed</sub>
-      <br/><b>Repository:</b> <i>Add repository URL</i>
+      <br/><b>Repository:</b> <i>https://github.com/dhruvchawla2511/Multimacsim</i>
     </td>
   </tr>
 </table>
